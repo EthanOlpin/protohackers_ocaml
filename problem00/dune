@@ -1,0 +1,5 @@
+(executable
+ (name "problem00")
+ (public_name "problem00")
+ (libraries core core_unix)
+ (package protohackers_ocaml))
