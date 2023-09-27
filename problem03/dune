@@ -1,0 +1,5 @@
+(executable
+ (name problem03)
+ (public_name problem03)
+ (libraries core eio eio_main str)
+ (package protohackers_ocaml))
