@@ -125,6 +125,3 @@ build: [
   ]
 ]
 dev-repo: "git+https://github.com/ethanolpin/protohackers_ocaml.git"
-url {
-  src: "git+file:///home/eto/protohackers_ocaml#main"
-}

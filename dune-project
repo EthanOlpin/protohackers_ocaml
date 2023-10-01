@@ -14,7 +14,7 @@
 (package
  (name protohackers_ocaml)
  (synopsis "Protohackers problem set solutions")
- (depends ocaml dune core core_unix eio eio_main yojson zarith)
+ (depends ocaml dune core core_unix eio eio_main yojson zarith re)
  (tags
   (topics "to describe" your project)))
 

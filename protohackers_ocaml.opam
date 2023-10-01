@@ -15,6 +15,7 @@ depends: [
   "eio_main"
   "yojson"
   "zarith"
+  "re"
   "odoc" {with-doc}
 ]
 build: [
